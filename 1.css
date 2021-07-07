@@ -3,6 +3,36 @@
     padding: 0;
 }
 
+.tt p {
+    width: 40%;
+    margin: auto;
+    color: black;
+    margin-bottom: 20px;
+}
+.tt .nuthire{
+    width: 180px;
+    border: none;
+    border-radius: 0%;
+    background: black;
+}
+
+.tt h2 {
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.tt img {
+    margin-top: 130px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.tt {
+    position: relative;
+    z-index: 2;
+}
+
 body,html {
     width: 100%;
     height: 100%;
