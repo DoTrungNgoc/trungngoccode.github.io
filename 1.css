@@ -48,6 +48,9 @@ h2.tieudecap2 {
     position: relative;
     z-index: 2;
 }
+.edu{
+    background-color:white
+}
 
 body,html {
     width: 100%;
@@ -55,7 +58,7 @@ body,html {
 }
 
 .khoitt1 {
-    height: 70%;
+    height: 540px;
     width: 100%;
     background: #e9585f;
 }
@@ -64,10 +67,9 @@ body,html {
     content: "";
     position: absolute;
     left: 0px;
-    /* top: 0px; */
     width: 50%;
-    height: 70%;
-    background: #e4555b;
+    height: 540px;
+    background: #dd595f;
 }
 
 nav.navbar.navbar-light.bg-faded {
@@ -82,7 +84,7 @@ nav.navbar.navbar-light.bg-faded {
 
 a.nav-link {
     font-family: segoe ui;
-    font-size: 13px;
+    font-size: 16px;
     text-transform: uppercase;
     color: #101010;
     line-height: 80px;
